@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IOC Annotaion driven congif/IOC Annotaion driven congif.iml" filepath="$PROJECT_DIR$/IOC Annotaion driven congif/IOC Annotaion driven congif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring NTSBMS.iml" filepath="$PROJECT_DIR$/.idea/Spring NTSBMS.iml" />
+    </modules>
+  </component>
+</project>
