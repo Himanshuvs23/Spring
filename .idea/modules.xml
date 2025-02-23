@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/IOC Annotaion driven congif/IOC Annotaion driven congif.iml" filepath="$PROJECT_DIR$/IOC Annotaion driven congif/IOC Annotaion driven congif.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring NTSBMS.iml" filepath="$PROJECT_DIR$/.idea/Spring NTSBMS.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/SeasonFinderIOC-proj04.iml" filepath="$PROJECT_DIR$/SeasonFinderIOC-proj04.iml" />
+>>>>>>> d675d85 (commit)
     </modules>
   </component>
 </project>

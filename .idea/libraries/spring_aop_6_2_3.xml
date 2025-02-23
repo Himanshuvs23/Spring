@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="spring-aop-6.2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/eclipse/spring jar flies/spring-aop-6.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse/spring jar flies/spring-beans-6.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse/spring jar flies/spring-context-6.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse/spring jar flies/spring-context-support-6.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse/spring jar flies/spring-core-6.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse/spring jar flies/spring-expression-6.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse/spring jar flies/spring-jcl-6.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
