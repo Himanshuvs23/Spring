@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import java.time.LocalDate;
 
 @Configuration
+
 @ComponentScan(basePackages = "com.nt.bean")
 
 public class Appconfig {

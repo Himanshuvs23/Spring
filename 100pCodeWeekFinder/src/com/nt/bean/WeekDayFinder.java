@@ -8,6 +8,8 @@ import java.time.LocalDate;
 @Component("wdf")
 public class WeekDayFinder {
 //field injecton
+
+
   @Autowired
     private LocalDate date;
 
