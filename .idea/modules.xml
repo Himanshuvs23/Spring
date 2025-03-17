@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/03Proj-FactoryPatter-JavaBased/03Proj-FactoryPatter-JavaBased.iml" filepath="$PROJECT_DIR$/03Proj-FactoryPatter-JavaBased/03Proj-FactoryPatter-JavaBased.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOC Annotaion driven congif/IOC Annotaion driven congif.iml" filepath="$PROJECT_DIR$/IOC Annotaion driven congif/IOC Annotaion driven congif.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring NTSBMS.iml" filepath="$PROJECT_DIR$/.idea/Spring NTSBMS.iml" />
     </modules>
